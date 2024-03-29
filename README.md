@@ -8,7 +8,7 @@ My code is well-organized with a modular approach, allowing for easy maintenance
 Through this project, I learned how to use an array of function pointers, as well as manipulate string buffers and convert data types. Additionally, I gained knowledge on writing well-designed programs by splitting them into multiple files and using concise functions.
 
 ## Installation
-`git clone https://gist.github.com/1c8c7f2bbdb53d0a9c323afc83d68493.git my_printf`  
+`git clone git@github.com:andreamaciasr/my_printf.git`  
 `cd my_printf`  
 `make`  
 `./my_printf`  
